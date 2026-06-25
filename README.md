@@ -1,6 +1,6 @@
 # DAXBOT v0.1.0
 
-![DAXBOT Dashboard](./daxbot_img.png)
+![DAXBOT Dashboard](./daxbotimg.png)
 
 DAXBOT v0.1.0 is a Windows desktop application built for **Authorized Security Assessment**. It helps users scan approved websites or systems, monitor scan progress, review security findings, and understand assessment results through a simple dashboard.
 
